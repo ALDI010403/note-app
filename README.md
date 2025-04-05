@@ -14,7 +14,7 @@ Pastikan Anda telah menginstal software berikut sebelum menjalankan proyek ini:
 1. Clone repositori ini:
 
    ```sh
-   
+   https://github.com/ALDI010403/note-app.git
    ```
 
 2. Instal dependensi:
